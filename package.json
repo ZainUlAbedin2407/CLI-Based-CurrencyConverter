@@ -1,8 +1,8 @@
 {
   "name": "zu_07_currency_converter",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A Node.js currency converter app using TypeScript and Inquirer. Convert between USD, EUR, GBP, INR, and PKR with a touch of desi flair!",
-  "main": "index.js",
+  "main": "main.js",
   "type": "module",
   "bin": "main.js",
   "scripts": {
